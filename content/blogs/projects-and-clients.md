@@ -32,7 +32,7 @@ Some of the projects we made:
 - [SITA_Suez environnement, Paris] (http://www.sita.fr/en/)
 - [Sparknews - Paris & Global] (http://www.sparknews.com/en)
 - [Sociale Innovatie Fabriek, Brussel] (shttp://www.socialeinnovatiefabriek.be/)
-- [Convergences, France] (http://www.convergences.org/en/]
+- [Convergences, France] (http://www.convergences.org/en/)
 - [Grameen Creative Lab, Germany] (http://www.grameencreativelab.com/)
 - [Play International, France] (http://pl4y.international/fr)
 - [Positive Economy Forum - Le Havre, France] (http://positiveeconomy.co/)
