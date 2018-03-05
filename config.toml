@@ -2,7 +2,7 @@
 contentDir = "content"
 baseURL = "http://socialmediasquad.cc"
 languageCode = "en-us"
-title = "Forty"
+title = "Social Media Squad"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
