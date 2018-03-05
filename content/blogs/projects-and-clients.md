@@ -17,7 +17,7 @@ Some of the projects we made:
 
 <iframe width='1000' height='500' src='https://embed.coggle.it/diagram/VgqUc0SgH6ly7a8V/9a8aff52fa98ebd9c6c1198d0b77cf07dc8d1f80d4a46875fc8e31b5c4352756' frameborder='0' allowfullscreen></iframe>   
 
-- [European Development Days- Commission Européenne, Brussels](https://eudevdays.eu/)
+- [European Development Days - Commission Européenne, Brussels](https://eudevdays.eu/)
 - [Danone Communities, France-Mexico] (http://www.danonecommunities.com/) 
 - [Forum Social Mondial 2016, Montréal] (http://www.crid.asso.fr/spip.php?rubrique94)
 - [Singa, France] (https://www.singafrance.com/)
